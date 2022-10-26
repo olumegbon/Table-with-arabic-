@@ -1,0 +1,21 @@
+
+        .up{
+        padding:none;
+        margin:none;
+        height:0px;}
+        table, th,td{border:1px solid black; 
+        empty-cells:hide;}
+        table {border-collapse:collapse;
+        max-width:100%;
+        text-align:center;
+        height:70px;}
+        td,th{padding:10px;}
+        <!-------------h3{ border-right:30px black solid;
+         background-color:yellow;
+        color:red;
+        padding:10px;}------------>
+         a:hover{color:red;}
+        a{color:pink;}
+        
+        
+        
